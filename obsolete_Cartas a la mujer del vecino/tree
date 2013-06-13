@@ -1,0 +1,8 @@
+<!DOCTYPE plume>
+<plume-tree version="0.3" theme="" projectName="Cartas a la mujer del vecino" creationDate="2013-06-13T18:02:09">
+   <book folded="no" textPath="/text/T1.html" textCursorPos="0" synCursorPos="0" theme="" synPath="/text/S1.html" number="1" name="Cartas a la mujer del vecino" notePath="/text/N1.html" noteCursorPos="0">
+      <chapter folded="no" textPath="/text/T2.html" textCursorPos="0" synCursorPos="0" theme="" synPath="/text/S2.html" number="2" name="Chapter 1" notePath="/text/N2.html" noteCursorPos="0">
+         <scene textPath="/text/T3.html" textCursorPos="0" synCursorPos="0" theme="" synPath="/text/S3.html" number="3" name="Scene 1" notePath="/text/N3.html" noteCursorPos="0"/>
+      </chapter>
+   </book>
+</plume-tree>

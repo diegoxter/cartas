@@ -1,0 +1,6 @@
+<!DOCTYPE plume-attendance>
+<plume-attendance version="0.6" rolesNames="None--Protagonist--Supporting--Neutral--Antagonist" levelsNames="Main--Secondary--None" projectName="Cartas a la mujer del vecino" box_1="Main--Secondary--None" box_2="None--Protagonist--Supporting--Neutral--Antagonist">
+   <group number="2" name="Characters" attendPath="/attend/A2.html"/>
+   <group number="3" name="Items" attendPath="/attend/A3.html"/>
+   <group number="4" name="Places" attendPath="/attend/A4.html"/>
+</plume-attendance>

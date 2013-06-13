@@ -116,7 +116,7 @@ p35
 g2
 I01
 sg3
-I10
+I11
 sg5
 g0
 sg6
@@ -139,7 +139,7 @@ p42
 g2
 I01
 sg3
-I6
+I8
 sg5
 g35
 sg6
@@ -160,7 +160,7 @@ g42
 sbsg25
 I0
 sg26
-I24
+I26
 sg27
 I6
 sg28
@@ -172,7 +172,7 @@ p49
 g2
 I01
 sg3
-I6
+I7
 sg5
 g35
 sg6
@@ -192,7 +192,7 @@ g49
 sbsg25
 I0
 sg26
-I6
+I7
 sg27
 I7
 sg28
@@ -202,7 +202,7 @@ g35
 sbsg25
 I0
 sg26
-I32
+I33
 sg27
 I3
 sg28
@@ -226,9 +226,9 @@ I5
 sS'visited'
 p59
 (lp60
-I3
+I6
+aI3
 aI7
-aI6
 aI1
 aI5
 aI0
